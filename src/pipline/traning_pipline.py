@@ -15,6 +15,7 @@ warnings.filterwarnings("ignore")
 
 
 #Run
+
 if __name__=="__main__":
     obj = DataIngestion()
     train_data_path,test_data_path = obj.initated_data_ingestion()
