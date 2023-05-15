@@ -1,4 +1,4 @@
-To run flask application 
+To  run flask application 
 
 ```
 python app.py
