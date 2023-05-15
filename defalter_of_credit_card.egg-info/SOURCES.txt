@@ -9,10 +9,10 @@ src/__init__.py
 src/exception.py
 src/logger.py
 src/utils.py
-src/compoents/__init__.py
-src/compoents/data_ingestion.py
-src/compoents/data_transformation.py
-src/compoents/model_traning.py
+src/components/__init__.py
+src/components/data_ingestion.py
+src/components/data_transformation.py
+src/components/model_traning.py
 src/pipline/__init__.py
 src/pipline/predict_pipline.py
 src/pipline/traning_pipline.py
